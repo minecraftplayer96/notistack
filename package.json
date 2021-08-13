@@ -13,7 +13,7 @@
     },
     "homepage": "https://www.iamhosseindhv.com/notistack",
     "repository": {
-        "url": "git+https://github.com/iamhosseindhv/notistack.git",
+        "url": "git+https://github.com/minecraftplayer96/notistack.git",
         "type": "git"
     },
     "scripts": {
